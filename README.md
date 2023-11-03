@@ -1,6 +1,6 @@
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LazyIonEs&show_icons=true" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LazyIonEs" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LazyIonEs&show_icons=true" height="120"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LazyIonEs" height="120"/>
 </p>
 
 <img src="https://github-profile-trophy.vercel.app/?username=LazyIonEs&margin-w=15" alt="Metrics" width="100%">
