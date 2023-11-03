@@ -17,7 +17,6 @@ jobs:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
-          #  - repo
           #  - public_repo
           #  - read:project
           # The following additional scopes may be required:
@@ -33,9 +32,6 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_octicon: yes
           config_timezone: Asia/Shanghai
-          plugin_16personalities: yes
-          plugin_16personalities_scores: yes
-          plugin_16personalities_sections: personality
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
@@ -48,18 +44,9 @@ jobs:
           plugin_activity_visibility: all
           plugin_calendar: yes
           plugin_calendar_limit: 1
-          plugin_chess: yes
-          plugin_chess_animation: {
-  "size": 40,
-  "delay": 3,
-  "duration": 0.6
-}
-
-          plugin_chess_user: .user.login
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: repositories
-          plugin_fortune: yes
           plugin_gists: yes
           plugin_habits: yes
           plugin_habits_charts_type: classic
@@ -87,23 +74,6 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_poopmap: yes
-          plugin_poopmap_days: 7
           plugin_projects: yes
           plugin_projects_limit: 4
-          plugin_splatoon: yes
-          plugin_splatoon_salmon_limit: 1
-          plugin_splatoon_sections: player, versus, salmon-run
-          plugin_splatoon_source: splatnet
-          plugin_splatoon_versus_limit: 1
-          plugin_steam: yes
-          plugin_steam_achievements_limit: 2
-          plugin_steam_games_limit: 1
-          plugin_steam_playtime_threshold: 2
-          plugin_steam_recent_games_limit: 1
-          plugin_steam_sections: player, most-played, recently-played
-          plugin_stock: yes
-          plugin_stock_duration: 1d
-          plugin_stock_interval: 5m
           plugin_support: yes
-          plugin_traffic: yes
