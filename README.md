@@ -1,8 +1,6 @@
 ![Metrics](/github-metrics.svg)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LazyIonEs" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyIonEs&layout=compact&exclude_repo=lazyiones.github.io&card_width=320" />
-</a>
+<div style="white-space: nowrap;">
+  <img style="max-width:50%;" height=200 src="https://github-readme-stats.vercel.app/api?username=LazyIonEs&show_icons=true" />
+  <img style="max-width:50%;" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyIonEs&layout=compact&exclude_repo=lazyiones.github.io" />
+</div>
