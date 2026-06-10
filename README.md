@@ -4,4 +4,4 @@ https://raw.githubusercontent.com/LazyIonEs/LazyIonEs/master/Clash/LazyIonEs-Cla
 https://raw.githubusercontent.com/LazyIonEs/LazyIonEs/master/Clash/LazyIonEs-Clash-Work.ini
 
 # Mihomo
-https://raw.githubusercontent.com/LazyIonEs/LazyIonEs/refs/heads/master/mihomo/config.yaml
+https://raw.githubusercontent.com/LazyIonEs/LazyIonEs/master/mihomo/config.yaml
